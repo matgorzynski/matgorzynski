@@ -17,7 +17,7 @@
 ---
 
 ### 🛠 Tech Stack
-![Languages](https://skillicons.dev/icons?i=js,ts,python,cpp,go,rust,docker,git,linux,postgres)
+![Languages](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,git,rabbitmq,github,githubactions,bots,kubernetes,powershell,rider,vscode)
 
 ---
 
