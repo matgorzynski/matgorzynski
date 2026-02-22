@@ -1,5 +1,7 @@
 name: Metrics
 on:
+  push:
+    branches: ["master"]
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 jobs:
@@ -19,3 +21,7 @@ jobs:
           # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
+
+          filename: metrics.plugin.achievements.svg
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
