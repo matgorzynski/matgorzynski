@@ -15,21 +15,7 @@ jobs:
           config_timezone: Europe/Warsaw
           
           config_order: base.header, languages, achievements, habits
-          queries_errors_fatal: no
-
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          plugin_achievements_ignored: member, maintainer
-
-          # Habits
-          plugin_habits: yes
-          plugin_habits_from: 50      
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          
+          plugins_errors_fatal: no
           # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
