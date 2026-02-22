@@ -1,6 +1,6 @@
 # matgorzynski
 
-`Software Engineer / Developer`
+`Developer`
 
 ---
 
