@@ -6,14 +6,18 @@
 
 ### 📊 Engineering Metrics
 
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" />
+</p>
 
 ---
 
 ### 🛠 Tech Stack
-![Languages](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,git,rabbitmq,github,githubactions,bots,kubernetes,powershell,rider,vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,git,rabbitmq,github,githubactions,bots,kubernetes,powershell,rider,vscode" />
+</p>
 
 ---
 
 ### 🔗 Connect
-`[ LinkedIn ](https://linkedin.com/in/matgorzynski)` &nbsp; `[ Portfolio ](https://matgorzynski.github.io)` &nbsp; `[ Mail ](mailto:your-email@example.com)`
+[LinkedIn](https://linkedin.com/in/matgorzynski) &nbsp; [Mail](mailto:your-email@example.com)
