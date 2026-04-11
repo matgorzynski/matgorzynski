@@ -20,4 +20,4 @@
 ---
 
 ### 🔗 Connect
-[LinkedIn](https://linkedin.com/in/matgorzynski) &nbsp; [Mail](mailto:your-email@example.com)
+[LinkedIn](https://linkedin.com/in/matgorzynski)
